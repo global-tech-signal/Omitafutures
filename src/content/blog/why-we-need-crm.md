@@ -1,7 +1,7 @@
 ---
 title: "Why Companies Need Custom CRM Systems And Intelligent Automation"
 pubDate: 2026-05-12
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
 image: "f82ca136-5a46-46c4-a7b4-8c36f19d4cea.png"
 tags: ["CRM", "Automation", "Business", "AI", "Enterprise Software"]

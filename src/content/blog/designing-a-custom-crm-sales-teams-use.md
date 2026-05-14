@@ -1,7 +1,7 @@
 ---
 title: "Designing a Custom CRM That Sales Teams Actually Use"
 pubDate: 2026-04-15
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
 image: "image2.png"
 tags: ["CRM Systems", "Engineering", "SaaS"]

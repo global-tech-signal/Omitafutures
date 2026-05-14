@@ -1,7 +1,7 @@
 ---
 title: "How AI Automation Is Quietly Eating Operations Work"
 pubDate: 2026-04-22
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
 image: "image1.png"
 tags: ["AI", "Automation", "Engineering"]

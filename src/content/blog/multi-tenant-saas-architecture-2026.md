@@ -1,7 +1,7 @@
 ---
 title: "Multi-Tenant SaaS Architecture: A Pragmatic 2026 Guide"
 pubDate: 2026-04-08
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png"
 image: "image3.png"
 tags: ["SaaS", "Engineering", "Startups"]

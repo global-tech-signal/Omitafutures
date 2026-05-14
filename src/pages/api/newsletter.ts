@@ -4,8 +4,8 @@ import type { APIRoute } from 'astro';
 import { MailtrapClient } from 'mailtrap';
 
 const client = new MailtrapClient({ token: import.meta.env.MAILTRAP_API_TOKEN });
-const SENDER_EMAIL = import.meta.env.MAILTRAP_SENDER_EMAIL || 'noreply@globaltechsignal.com';
-const TO_EMAIL = import.meta.env.CONTACT_EMAIL || 'hello@globaltechsignal.com';
+const SENDER_EMAIL = import.meta.env.MAILTRAP_SENDER_EMAIL || 'noreply@OmitaFutures.in';
+const TO_EMAIL = import.meta.env.CONTACT_EMAIL || 'hello@OmitaFutures.in';
 
 export const POST: APIRoute = async ({ request }) => {
   try {
@@ -20,7 +20,7 @@ export const POST: APIRoute = async ({ request }) => {
     }
 
     await client.send({
-      from: { name: 'GlobalTechSignal', email: SENDER_EMAIL },
+      from: { name: 'OmitaFutures', email: SENDER_EMAIL },
       to: [{ email: TO_EMAIL }],
       subject: `[Newsletter] New subscriber: ${email}`,
       html: `

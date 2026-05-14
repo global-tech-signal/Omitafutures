@@ -1,7 +1,7 @@
 ---
 title: "Startup Tech Trends to Watch in 2026"
 pubDate: 2026-03-20
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/neil-sims.png"
 image: "image5.png"
 tags: ["Startups", "Global Tech News", "AI"]

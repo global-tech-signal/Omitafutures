@@ -1,7 +1,7 @@
 ---
 title: "The Lead Management Stack That Wins for Service Businesses"
 pubDate: 2026-03-30
-author: "GlobalTechSignal Newsroom"
+author: "OmitaFutures Newsroom"
 authImage: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gough.png"
 image: "image4.png"
 tags: ["CRM Systems", "Automation", "Engineering"]
