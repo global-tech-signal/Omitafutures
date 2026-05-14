@@ -5,7 +5,7 @@ import { MailtrapClient } from 'mailtrap';
 
 const client = new MailtrapClient({ token: import.meta.env.MAILTRAP_API_TOKEN });
 const SENDER_EMAIL = import.meta.env.MAILTRAP_SENDER_EMAIL || 'noreply@OmitaFutures.in';
-const TO_EMAIL = import.meta.env.CONTACT_EMAIL || 'hello@OmitaFutures.in';
+const TO_EMAIL = import.meta.env.CONTACT_EMAIL || 'Omitafutures@gmail.com';
 
 export const POST: APIRoute = async ({ request }) => {
   try {
